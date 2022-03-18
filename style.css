@@ -1,0 +1,585 @@
+.back{
+    background: #BAE8E8;
+}
+
+.main{
+    position: absolute;
+    width: 600px;
+    height: 607px;
+    left: 440px;
+    top: 0px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 140px;
+    line-height: 130px;
+    color: #000000; 
+}
+
+.r1{
+    position: absolute;
+width: 356px;
+height: 1021px;
+left: 0px;
+top: 0px;
+
+background: #272343;
+}
+
+.t1{
+    position: absolute;
+width: 323px;
+height: 70px;
+left: 33px;
+top: 41px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+
+}
+
+.t1i{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.t2{
+    position: absolute;
+width: 323px;
+height: 70px;
+left: 33px;
+top: 138px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+
+}
+.t2i{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.t3{
+    position: absolute;
+width: 323px;
+height: 70px;
+left: 33px;
+top: 235px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+}
+
+.t3i{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.t4{
+    position: absolute;
+width: 323px;
+height: 70px;
+left: 33px;
+top: 332px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+
+
+}
+
+.t4i{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.t5{
+    position: absolute;
+width: 323px;
+height: 70px;
+left: 33px;
+top: 429px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+}
+
+.t5i{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.virus{
+    position: absolute;
+width: 340px;
+height: 340px;
+left: 80px;
+top:650px;
+}
+
+.tips{
+    position: absolute;
+    width: 248px;
+    height: 120px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 134px;
+    color: #000000;
+
+    left:100px;
+    top: 960px;
+
+    
+}
+
+.l1{
+position: absolute;
+width: 1250px;
+height: 0px;
+left: 0px;
+top: 1019px;
+
+border: 6px solid #272343;
+}
+
+.r3{
+    position: absolute;
+width: 360px;
+height: 620px;
+left: 50px;
+top: 1203px;
+
+background: #E3F6F5;
+}
+
+.r4{
+    position: absolute;
+width: 360px;
+height: 620px;
+top: 1203px;
+left: 452px;
+background: #E3F6F5;
+}
+
+.r5
+{
+    position: absolute;
+width: 360px;
+height: 620px;
+right: 50px;
+top: 1203px;
+
+background: #E3F6F5;
+}
+
+.wear{
+    position: absolute;
+width: 360px;
+height: 177px;
+left: 50px;
+top: 1200px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 85px;
+text-align: center;
+
+color: #000000;
+}
+
+.prac{
+    position: absolute;
+width: 360px;
+height: 221px;
+left: 452px;
+top: 1500px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.wash{
+    position: absolute;
+width: 360px;
+height: 272px;
+right: 50px;
+top: 1200px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 85px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.mask{
+    position: absolute;
+width: 361px;
+height: 361px;
+left: 50px;
+top: 1449px;
+
+}
+
+.dist{
+    position: absolute;
+width: 361px;
+height: 361px;
+left: 445px;
+top: 1159px;
+}
+
+.washh{
+    position: absolute;
+width: 360px;
+height: 272px;
+right: 50px;
+top: 1520px;
+}
+
+.l2{
+    position: absolute;
+    width: 1250px;
+    height: 0px;
+    left: 0px;
+    top: 1851px;
+    
+    border: 6px solid #272343;
+}
+
+.symp{
+    position: absolute;
+width: 627px;
+height: 134px;
+left: 40px;
+top: 1800px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 134px;
+
+text-align: center;
+
+color: #E3F6F5;
+}
+
+.look{
+    position: absolute;
+width: 600px;
+height: 196px;
+left: 650px;
+top: 1850px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+
+color: #E3F6F5;
+}
+
+.list{
+    position: absolute;
+width: 644px;
+height: 539px;
+left: 58px;
+top: 2050px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+
+color: #E3F6F5;
+}
+
+.r6{
+    position: absolute;
+width: 1262px;
+height: 960px;
+left: 0px;
+top: 1851px;
+
+background: #272343;
+}
+
+.hosp{
+    position: absolute;
+width: 887px;
+height: 603px;
+left: 375px;
+top: 2050px;
+}
+
+
+
+.glass{
+    position: absolute;
+    width: 213px;
+    height: 213px;
+    left: -12px;
+    top: 2592px;
+    
+}
+
+.hydr{
+    position: absolute;
+width: 1100px;
+height: 98px;
+left: 160px;
+top: 2580px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 98px;
+
+text-align: center;
+
+color: #ffffff;
+}
+
+.faq{
+    position: absolute;
+    width: 285px;
+    height: 110px;
+    left: 11px;
+    top: 2750px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 110px;
+
+text-align: center;
+
+color: #000000;
+}
+
+.r7{
+    position: absolute;
+width: 1181px;
+height: 188px;
+left: 41px;
+top: 2954px;
+
+background: #E3F6F5;
+}
+
+.r8{
+    position: absolute;
+    width: 1181px;
+    height: 188px;
+    left: 41px;
+    top: 3170px;
+    
+    background: #E3F6F5;
+}
+
+.r9{
+    position: absolute;
+    width: 1181px;
+    height: 188px;
+    left: 41px;
+    top: 3386px;
+    
+    background: #E3F6F5;
+}
+
+.q1{
+    position: absolute;
+width: 1180px;
+height: 42px;
+left: 41px;
+top: 2942px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+
+color: #000000;
+}
+
+.q2{
+    position: absolute;
+width: 1180px;
+height: 42px;
+left: 41px;
+top: 3154px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+
+color: #000000;
+}
+
+.q3{
+    position: absolute;
+width: 1180px;
+height: 42px;
+left: 42px;
+top: 3370px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+
+color: #000000;
+}
+
+.a1{
+    position: absolute;
+    width: 1182px;
+    height: 133px;
+    left: 39px;
+    top: 2996px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.a2{
+    position: absolute;
+    width: 1175px;
+    height: 90px;
+    left: 44px;
+    top: 3220px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.a3{
+    position: absolute;
+width: 1173px;
+height: 136px;
+left: 46px;
+top: 3425px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #000000;
+}
+
+.furth{
+    position: absolute;
+width: 737px;
+height: 116px;
+left: 14px;
+top: 3525px;
+
+font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 98px;
+
+color: #000000;
+
+}
+
+.yt1{
+    position: absolute;
+    left: 150px;
+    top: 3725px;
+}
+
+.yt2{
+    position: absolute;
+    left: 700px;
+    top: 3725px;
+}
+
+.r10{
+    position: absolute;
+width: 1262px;
+height: 264px;
+left: 0px;
+top: 4060px;
+
+background: #272343;
+}
+
+.made{
+    position: absolute;
+    width: 1260px;
+    height: 85px;
+    left: 0px;
+    top: 4000px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    text-align: center;
+    color: #E3F6F5;
+    
+}
+
+.madei{
+    color: #E3F6F5;
+}
