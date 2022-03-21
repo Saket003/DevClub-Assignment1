@@ -583,3 +583,19 @@ background: #272343;
 .madei{
     color: #E3F6F5;
 }
+
+.mail{
+    position: absolute;
+    width: 1260px;
+    height: 85px;
+    left: 0px;
+    top: 4100px;
+    
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 85px;
+    text-align: center;
+    color: #E3F6F5;
+}
